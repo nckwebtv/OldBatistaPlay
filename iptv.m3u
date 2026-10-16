@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/ae-br.png",A&E Brasil
+https://cdn-1.netplaygo.com.br/AeE_BRASIL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/amc-br.png",AMC Brasil
+https://cdn-1.netplaygo.com.br/AMC_BRASIL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png",Animal Planet
+https://cdn-1.netplaygo.com.br/ANIMAL_PLANET/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/arte-1-br.png",Arte1
+https://cdn-1.netplaygo.com.br/ARTE1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/bandnews-br.png",BandNews
+https://cdn-1.netplaygo.com.br/BAND_NEWS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/bandsports-br.png",BandSports
+https://cdn-1.netplaygo.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoon-network-br.png",Cartoon Network
+https://cdn-1.netplaygo.com.br/CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png",Cartoonito
+https://cdn-1.netplaygo.com.br/CARTOONITO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cnn-brasil.png",CNN Brasil
+https://cdn-1.netplaygo.com.br/CNN_BRASIL/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-channel-br.png",Discovery Channel
+https://cdn-1.netplaygo.com.br/DISCOVERY_CHANNEL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-home-and-health-br.png",Discovery Home & Health
+https://cdn-1.netplaygo.com.br/DISCOVERY_HH/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/investigation-discovery-br.png",Discovery ID
+https://cdn-1.netplaygo.com.br/DISCOVERY_ID/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",Discovery Kids
+https://cdn-1.netplaygo.com.br/DISCOVERY_KIDS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-science-br.png",Discovery Science
+https://cdn-1.netplaygo.com.br/DISCOVERY_SCIENCE/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-theater-br.png",Discovery Theater
+https://cdn-1.netplaygo.com.br/DISCOVERY_THEATER/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-turbo-br.png",Discovery Turbo
+https://cdn-1.netplaygo.com.br/DISCOVERY_TURBO/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-world-br.png",Discovery World
+https://cdn-1.netplaygo.com.br/DISCOVERY_WORLD/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/dreamworks-br.png",DreamWorks
+https://cdn-1.netplaygo.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://via.placeholder.com/512x512.png?text=Dum+Dum",Dum Dum
+https://cdn-1.netplaygo.com.br/DUMDUM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png",ESPN
+https://cdn-1.netplaygo.com.br/ESPN/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png",ESPN 2
+https://cdn-1.netplaygo.com.br/ESPN_2/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-3-br.png",ESPN 3
+https://cdn-1.netplaygo.com.br/ESPN_3/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-4-br.png",ESPN 4
+https://cdn-1.netplaygo.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-5-br.png",ESPN 5
+https://cdn-1.netplaygo.com.br/ESPN_5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-6-br.png",ESPN 6
+https://cdn-1.netplaygo.com.br/ESPN_6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/film-and-arts-br.png",Film&Arts
+https://cdn-1.netplaygo.com.br/FILM_ARTS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-globo-sp.png",Globo SP
+https://cdn-1.netplaygo.com.br/GLOBO_SP_TK/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hgtv-br.png",HGTV Brasil
+https://cdn-1.netplaygo.com.br/HGTV_BR/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/history-br.png",History
+https://cdn-1.netplaygo.com.br/HISTORY/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/history-2-br.png",History 2
+https://cdn-1.netplaygo.com.br/HISTORY_2/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/lifetime-br.png",Lifetime
+https://cdn-1.netplaygo.com.br/LIFE_TIME/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-vida.png",Rede Vida
+https://cdn-1.netplaygo.com.br/REDE_VIDA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Culinária" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-e-arte.png",Sabor & Arte
+https://cdn-1.netplaygo.com.br/SABOR_E_ARTE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png",Sony Channel
+https://cdn-1.netplaygo.com.br/SONY_CHANNEL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-movies-br.png",Sony Movies
+https://cdn-1.netplaygo.com.br/SONY_MOVIES/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
+https://cdn-1.netplaygo.com.br/SPACE/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tlc-br.png",TLC Brasil
+https://cdn-1.netplaygo.com.br/TLC_BR/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png",TNT
+https://cdn-1.netplaygo.com.br/TNT/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-novelas-br.png",TNT Novelas
+https://cdn-1.netplaygo.com.br/TNT_NOVELAS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-series-br.png",TNT Series
+https://cdn-1.netplaygo.com.br/TNT_SERIES/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/warner-channel-br.png",Warner Channel
+https://cdn-1.netplaygo.com.br/WARNER_CHANNEL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-ra-tim-bum.png",TV Rá Tim Bum
+https://origin-07.nxplay.com.br/TV_RA_TIM_BUM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://via.placeholder.com/512x512.png?text=Fuel+TV",Fuel TV
+https://cdn-1.netplaygo.com.br/FUEL_TV/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://via.placeholder.com/512x512.png?text=New+Brasil",New Brasil
+https://cdn-1.netplaygo.com.br/NEW_BRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://via.placeholder.com/512x512.png?text=XSports",XSports
+https://cdn-1.netplaygo.com.br/XSPORTS/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://via.placeholder.com/512x512.png?text=Rede+Recon",Rede Recon
+https://cdn-1.netplaygo.com.br/REDE_RECON/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-news.png",Record News
+https://cdn-1.netplaygo.com.br/RECORD_NEWS/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=Vivax",Vivax
+https://cdn-1.netplaygo.com.br/VIVAX/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=Entretendo",Entretendo
+https://cdn-1.netplaygo.com.br/ENTRETENDO/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://via.placeholder.com/512x512.png?text=CNN+Money",CNN Money
+https://cdn-1.netplaygo.com.br/CNN_MONEY/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://via.placeholder.com/512x512.png?text=Mosaico",Mosaico
+https://cdn-1.netplaygo.com.br/MOSAICO/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=GPTV",GPTV
+https://cdn-1.netplaygo.com.br/GPTV/mono.m3u8
+
+#EXTINF:-1 group-title="Agronegócio" tvg-logo="https://via.placeholder.com/512x512.png?text=Agro+Plus",Agro Plus
+https://cdn-1.netplaygo.com.br/AGRO_PLUS/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/play-tv.png",Play TV
+https://cdn-1.netplaygo.com.br/PLAY_TV/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/adult-swim-br.png",Adult Swim
+https://cdn-1.netplaygo.com.br/ADULT_SWIN/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cine-brasil-tv.png",Cine Brasil TV
+https://cdn-1.netplaygo.com.br/CINE_BRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Culinária" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/food-network-br.png",Food Network
+https://cdn-1.netplaygo.com.br/FOOD_NETWORK/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news.png",Jovem Pan News
+https://cdn-1.netplaygo.com.br/JOVEM_PAN/mono.m3u8
+
+#EXTINF:-1 group-title="Agronegócio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/terra-viva.png",Terra Viva
+https://cdn-1.netplaygo.com.br/TERRA_VIVA/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://via.placeholder.com/512x512.png?text=Acelerados",Acelerados
+https://cdn-1.netplaygo.com.br/ACELERADOS/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://via.placeholder.com/512x512.png?text=Desimpedidos",Desimpedidos
+https://cdn-1.netplaygo.com.br/DESIMPEDIDOS/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://via.placeholder.com/512x512.png?text=Oeste+TV",Oeste TV
+https://cdn-1.netplaygo.com.br/OESTE_TV/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Kids",Urban Kids
+https://cdn-1.netplaygo.com.br/URBAN_KIDS/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Docs",Urban Docs
+https://cdn-1.netplaygo.com.br/URBAN_DOCS/mono.m3u8
+
+#EXTINF:-1 group-title="Séries" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Series",Urban Series
+https://cdn-1.netplaygo.com.br/URBAN_SERIES/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Movies",Urban Movies
+https://cdn-1.netplaygo.com.br/URBAN_MOVIES/mono.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Travel",Urban Travel
+https://cdn-1.netplaygo.com.br/URBAN_TRAVEL/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Retro",Urban Retro
+https://cdn-1.netplaygo.com.br/URBAN_RETRO/mono.m3u8
+
+#EXTINF:-1 group-title="Animes" tvg-logo="https://via.placeholder.com/512x512.png?text=Urban+Otaku",Urban Otaku
+https://cdn-1.netplaygo.com.br/URBAN_OTAKU/mono.m3u8
+
+#EXTINF:-1 group-title="Animes" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Anime",Hallo Anime
+https://cdn-1.netplaygo.com.br/HALLOANIME/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Movies",Hallo Movies
+https://cdn-1.netplaygo.com.br/HALLOMOVIES/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Classic",Hallo Classic
+https://cdn-1.netplaygo.com.br/HALLOCLASSIC/mono.m3u8
+
+#EXTINF:-1 group-title="Séries" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Series",Hallo Series
+https://cdn-1.netplaygo.com.br/HALLOSERIES/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Bora+Filmes",Bora Filmes
+https://cdn-1.netplaygo.com.br/BORAFILMES/mono.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://via.placeholder.com/512x512.png?text=Travel+Plus",Travel Plus
+https://cdn-1.netplaygo.com.br/TRAVEL_PLUS/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=SoPlay+Movies",SoPlay Movies
+https://cdn-1.netplaygo.com.br/SOPLAY_MOVIES/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=SoPlay+Policial",SoPlay Policial
+https://cdn-1.netplaygo.com.br/SOPLAY_POLICIAL/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=SoPlay+Western",SoPlay Western
+https://cdn-1.netplaygo.com.br/SOPLAY_WESTERN/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://via.placeholder.com/512x512.png?text=E+Brasil",E Brasil
+https://cdn-1.netplaygo.com.br/E_BRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=Whe+Play",Whe Play
+https://cdn-1.netplaygo.com.br/WHE_PLAY/mono.m3u8
+
+#EXTINF:-1 group-title="Agronegócio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-do-boi.png",Canal do Boi
+https://cdn-1.netplaygo.com.br/CANAL_DO_BOI/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova.png",Canção Nova
+https://cdn-1.netplaygo.com.br/CANCAO_NOVA/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cgtn.png",CGTN
+https://cdn-1.netplaygo.com.br/CGTN/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://via.placeholder.com/512x512.png?text=CGTN+Documentary",CGTN Documentary
+https://cdn-1.netplaygo.com.br/CGTN_DOCUMENTARY/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo.png",Novo Tempo
+https://cdn-1.netplaygo.com.br/NOVO_TEMPO/mono.m3u8
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sesctv.png",Sesc TV
+https://cdn-1.netplaygo.com.br/SESC_TV/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Doc",Hallo Doc
+https://cdn-1.netplaygo.com.br/HALLODOC/mono.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Music",Hallo Music
+https://cdn-1.netplaygo.com.br/HALLOMUSIC/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Forro",AlfaMusic Forró
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_FORRO/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Flashback",AlfaMusic Flashback
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_FLASHBACK/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+MPB",AlfaMusic MPB
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_MPB/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Metal",AlfaMusic Metal
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_METAL/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Pop+Rock",AlfaMusic Pop Rock
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_POPROCK/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Pop+Brasil",AlfaMusic Pop Brasil
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_POPBRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Vibe",AlfaMusic Vibe
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_VIBE/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Heartbreak",AlfaMusic Heartbreak
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_HEARTBREAK/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Pop+Internacional",AlfaMusic Pop Internacional
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_POPINTERNACIONAL/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Barzinho",AlfaMusic Barzinho
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_BARZINHO/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Top+Brasil",AlfaMusic Top Brasil
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_TOP_BRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Rock+Baladas",AlfaMusic Rock Baladas
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_ROCK_BALADAS/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Infantil",AlfaMusic Infantil
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_INFANTIL/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Reggae",AlfaMusic Reggae
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_REGGAE/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Funk",AlfaMusic Funk
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_FUNK/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Hip+Hop",AlfaMusic Hip Hop
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_HIPHOP/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Party",AlfaMusic Party
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_PARTY/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+All+Teen",AlfaMusic All Teen
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_ALL_TEEN/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Academia",AlfaMusic Academia
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_ACADEMIA/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Alma+Sertaneja",AlfaMusic Alma Sertaneja
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_ALMA_SERTANEJA/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Pagode+90",AlfaMusic Pagode 90
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_PAGODE_90/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Pop+80",AlfaMusic Pop 80
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_POP_80/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Hits+FM",AlfaMusic Hits FM
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_HITS_FM/mono.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://via.placeholder.com/512x512.png?text=AlfaMusic+Sertanejo+Raiz",AlfaMusic Sertanejo Raiz
+https://cdn-1.netplaygo.com.br/ALFAMUSIC_SERTANEJO_RAIZ/mono.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Dorama",Hallo Dorama
+https://cdn-1.netplaygo.com.br/HALLODORAMA/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=Hallo+Brasil",Hallo Brasil
+https://cdn-1.netplaygo.com.br/HALLOBRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/com-brasil-tv.png",Com Brasil
+https://cdn-1.netplaygo.com.br/COM_BRASIL/mono.m3u8
+
+#EXTINF:-1 group-title="Agronegócio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-canal.png",Agro Canal
+https://cdn-1.netplaygo.com.br/AGRO_CANAL/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://via.placeholder.com/512x512.png?text=NSports",NSports
+https://cdn-1.netplaygo.com.br/NSPORTS/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Western+Bound",Western Bound
+https://cdn-1.netplaygo.com.br/WESTERN_BOUND/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://via.placeholder.com/512x512.png?text=Artesanato",Artesanato
+https://cdn-1.netplaygo.com.br/ARTESANATO/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-tv.png",RIT TV
+https://cdn-1.netplaygo.com.br/RIT_TV/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tooncast.png",Tooncast
+https://cdn-1.netplaygo.com.br/TOONCAST/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-evangelizar.png",Evangelizar
+https://cdn-1.netplaygo.com.br/EVANGELIZAR/mono.m3u8
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://via.placeholder.com/512x512.png?text=Canal+Educacao",Canal Educação
+https://cdn-1.netplaygo.com.br/CANAL_EDUCACAO/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Film+Action",Film Action
+https://cdn-1.netplaygo.com.br/FILM_ACTION/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Film+Plus",Film Plus
+https://cdn-1.netplaygo.com.br/FILM_PLUS/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Film+Family",Film Family
+https://cdn-1.netplaygo.com.br/FILM_FAMILY/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://via.placeholder.com/512x512.png?text=Film+Emotion",Film Emotion
+https://cdn-1.netplaygo.com.br/FILM_EMOTION/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura.png",TV Cultura
+https://cdn-1.netplaygo.com.br/TV_CULTURA/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-bandeirantes.png",Band RJ
+https://cdn-1.netplaygo.com.br/BAND_RJ/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/redetv.png",RedeTV! SP
+https://cdn-1.netplaygo.com.br/REDETV_SP/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-aparecida.png",TV Aparecida
+https://cdn-1.netplaygo.com.br/TV_APARECIDA/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tcm-br.png",TCM
+https://cdn-1.netplaygo.com.br/TCM/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt.png",SBT RJ
+https://cdn-1.netplaygo.com.br/SBT_RJ/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/recordtv.png",Record RJ
+https://cdn-1.netplaygo.com.br/RECORD_RJ/mono.m3u8
+
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/recordtv.png",Record SP
+https://cdn-1.netplaygo.com.br/RECORD_SP/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://via.placeholder.com/512x512.png?text=Leo+e+Lully",Léo e Lully
+https://cdn-1.netplaygo.com.br/LEO_E_LULLY/mono.m3u8
+
+#EXTINF:-1 group-title="Agronegócio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais.png",AgroMais
+https://cdn-1.netplaygo.com.br/AGRO_MAIS/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://via.placeholder.com/512x512.png?text=GGTV",GGTV
+https://cdn-1.netplaygo.com.br/GGTV/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://via.placeholder.com/512x512.png?text=CNBC",CNBC
+https://cdn-1.netplaygo.com.br/CNBC/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://via.placeholder.com/512x512.png?text=BMC+News",BMC News
+https://cdn-1.netplaygo.com.br/BMC_NEWS/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://via.placeholder.com/512x512.png?text=TV+Astral",TV Astral
+https://cdn-1.netplaygo.com.br/TV_ASTRAL/mono.m3u8
